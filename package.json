@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@chainsafe/libp2p-noise": "^16.0.0",
+    "@chainsafe/libp2p-yamux": "^7.0.0",
+    "@helia/unixfs": "^3.0.7",
+    "@libp2p/identify": "^3.0.1",
+    "@libp2p/websockets": "^9.0.6",
+    "blockstore-core": "^5.0.2",
+    "datastore-core": "^10.0.2",
+    "helia": "^4.2.6",
+    "i": "^0.3.7",
+    "libp2p": "^2.0.2",
+    "npm": "^10.8.3"
+  }
+}
